@@ -1,6 +1,6 @@
 # Sales Data Analysis Dashboard
 
-This repository contains a comprehensive analysis of sales data from a water mineral manufacturing company. The analysis aims to provide actionable insights into various aspects of the business, including revenue trends, order distribution, product performance, customer demographics, and more.
+This repository contains a comprehensive analysis of sales data from a manufacturing company. The analysis aims to provide actionable insights into various aspects of the business, including revenue trends, order distribution, product performance, customer demographics, and more.
 
 ## Table of Contents
 1. [Introduction](#introduction)
